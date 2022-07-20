@@ -10,3 +10,6 @@
 ## Documentation
 
 See [Docs](https://v2.nonebot.dev/)
+
+## 2022/7/21
+1. 增加COD4命令编写
